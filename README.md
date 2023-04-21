@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @megand7
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning on odin project and freecodecamp
+- 📫 How to reach me ...
